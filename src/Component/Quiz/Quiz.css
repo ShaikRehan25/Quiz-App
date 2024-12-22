@@ -18,6 +18,8 @@
 .container h2{
     font-size: 20px;
     font-weight: 500;
+    margin-bottom: 10px;
+    font-family: sans-serif;
 }
 .container ul li{
     display: flex;
@@ -34,7 +36,7 @@
     margin: auto;
     width: 180px;
     height: 55px;
-    background: #19006c;
+    background: #4a27be;
     color: #fff;
     font-size: 24px;
     font-weight: 500;
